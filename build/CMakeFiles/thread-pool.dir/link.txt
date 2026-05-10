@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/thread-pool.dir/main.cpp.o" "CMakeFiles/thread-pool.dir/ThreadPool.cpp.o" -o thread-pool

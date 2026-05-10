@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/zacharymiller/thread-pool/build",
+  "command": "/usr/bin/clang++   -g -std=c++2b -arch arm64 -o CMakeFiles/thread-pool.dir/main.cpp.o -c /Users/zacharymiller/thread-pool/main.cpp",
+  "file": "/Users/zacharymiller/thread-pool/main.cpp",
+  "output": "CMakeFiles/thread-pool.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/zacharymiller/thread-pool/build",
+  "command": "/usr/bin/clang++   -g -std=c++2b -arch arm64 -o CMakeFiles/thread-pool.dir/ThreadPool.cpp.o -c /Users/zacharymiller/thread-pool/ThreadPool.cpp",
+  "file": "/Users/zacharymiller/thread-pool/ThreadPool.cpp",
+  "output": "CMakeFiles/thread-pool.dir/ThreadPool.cpp.o"
+}
+]
